@@ -1,0 +1,1 @@
+Bugs fix and upgrade to version 2.5.3
